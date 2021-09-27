@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86d2b0e41df44e89bec8ab2130c841d, type: 3}
+  m_Name: GameConfigData
+  m_EditorClassIdentifier: 
+  cellsInLine: 3
+  cellSizeInPixels: {x: 200, y: 200}
+  cardSets:
+  - {fileID: 11400000, guid: 14e931e92f8f0b346a9267ae0ac10cf9, type: 2}
+  - {fileID: 11400000, guid: 68492c6554d31ce498509521027c88f0, type: 2}
+  lastLevel: 3
